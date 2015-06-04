@@ -1,0 +1,39 @@
+#results_page_body {
+  text-align: center;
+}
+#standard{
+	border: 5px inset #33FFCC;
+	padding:3px;
+	margin: auto;  
+	  
+	  left:0;
+	  right: 0;
+	  top: 0;
+	  bottom: 0;
+	  width: 900px;
+}
+#mega{
+	border: 5px inset #FF5050;
+	padding:3px;
+	margin: auto;  
+	  
+	  left:0;
+	  right: 0;
+	  top: 0;
+	  bottom: 0;
+	  width: 525px;
+}
+
+#bib{
+	border: 5px inset #333333;
+	padding:3px;
+	margin: auto;  
+	  
+	  left:0;
+	  right: 0;
+	  top: 0;
+	  bottom: 0;
+	  width: 600px;
+}
+
+
